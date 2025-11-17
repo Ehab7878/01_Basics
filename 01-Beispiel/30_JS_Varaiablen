@@ -1,0 +1,13 @@
+let banana = "Banana"
+let apple = "Apple"
+
+let bananaPricePerKilo = 2.14
+let applePricePerKilo = 3.43
+
+let bananaWeight = 0.34 
+let appleWeight = 0.22
+
+console.log(applePricePerKilo * 8)
+console.log(bananaPricePerKilo * 17)
+console.log(bananaPricePerKilo * 1000)
+console.log(applePricePerKilo * 1000)
