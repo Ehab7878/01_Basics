@@ -1,8 +1,8 @@
-let number = 4
+let number = 67
 
 if (number > 0){
+console.log("The Number is Positiv")
 }
-console.log("The Number is Positiv") 
 if (number < 0){
 console.log("The number is Negativ")
 }
