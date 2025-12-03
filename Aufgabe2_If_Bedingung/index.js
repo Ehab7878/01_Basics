@@ -1,11 +1,11 @@
-let colour = "red"
+let TrafficLight = "green"
 
-if (colour == "green"){
-console.log("Du kannsr losfahren")
+if (TrafficLight == "green"){
+console.log("Du kannst losfahren")
 }
-if (colour == "yellow"){
+if (TrafficLight == "yellow"){
 console.log("Vorsicht")
 }
-if( colour == "red"){
+if( TrafficLight == "red"){
 console.log("Stop!")
 }
